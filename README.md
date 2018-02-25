@@ -41,7 +41,7 @@ Executing this benchmark requires R along with the following packages:
 To run the benchmark,
 
 1. [Download the data](https://www.kaggle.com/c/wids2018datathon/data)
-2. Modify SETTINGS.json to point to the training and validation data on your system, as well as a place to save the trained model and a place to save the submission
-3. Train the model by running `python train.py`
-4. Make predictions on the validation set by running `python predict.py`
+2. Modify extract_data.R to point to the training and validation data on your system.
+3. Modify extract get_helper_functions.R a place to save the submission
+4. Train the model and make predictions by running main.R
 5. [Make a submission](https://www.kaggle.com/c/wids2018datathon/submit) with the output file
