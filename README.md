@@ -3,9 +3,9 @@ Kaggle - Predictive Analytics for Social Impact (WiDS 2018 Datathon)
 
 #### Intro
 
-Datawraiths of Aotearoa entry for the [Predictive Analytics for Social Impact](https://www.kaggle.com/c/wids2018datathon), hosted by Kaggle with the Women in Data Science Conference (WiDS)
+This Readme file is for Datawraiths of Aotearoa team entry for the [Predictive Analytics for Social Impact](https://www.kaggle.com/c/wids2018datathon), hosted by Kaggle with the Women in Data Science Conference (WiDS)
 
-The WiDS Datathon is intended to encourage women data scientists to participate in a predictive analysis contests. Teams must be majority women to enter.
+The WiDS Datathon is intended to encourage women data scientists to participate in predictive analysis contests. Teams must be majority women to enter.
 
 The challenge is to use demographic and behavioural information from survey respondents in India on their use of traditional and mobile financial services to predict the gender of respondents. 
 Ideally, this data can then be used to help enable more Indian women to access financial services. 
