@@ -45,5 +45,3 @@ To run the benchmark,
 3. Train the model by running `python train.py`
 4. Make predictions on the validation set by running `python predict.py`
 5. [Make a submission](https://www.kaggle.com/c/wids2018datathon/submit) with the output file
-
-This benchmark took approximately 1.5 hours to execute on a Windows 8 laptop with 8GB of RAM and 4 cores at 2.7GHz.
